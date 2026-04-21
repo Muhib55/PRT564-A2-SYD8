@@ -1,0 +1,17 @@
+sex,employment_status,qualification_group,qualification_count_code,group_size_000
+Female,Full-time,No_qualification,0,741.2
+Female,Full-time,One,1,1333.0
+Female,Full-time,Two,2,774.7
+Female,Full-time,Three_or_more,3,320.5
+Male,Full-time,No_qualification,0,1423.5
+Male,Full-time,One,1,2443.0
+Male,Full-time,Two,2,997.5
+Male,Full-time,Three_or_more,3,390.2
+Female,Part-time,No_qualification,0,931.7
+Female,Part-time,One,1,1014.2
+Female,Part-time,Two,2,444.2
+Female,Part-time,Three_or_more,3,170.0
+Male,Part-time,No_qualification,0,548.8
+Male,Part-time,One,1,380.0
+Male,Part-time,Two,2,115.7
+Male,Part-time,Three_or_more,3,58.2
